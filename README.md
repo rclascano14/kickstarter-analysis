@@ -10,7 +10,7 @@
 
 # Overview of Project/Purpose 
 
-	The purpose of this project was primarily to showcase our understanding and prowess regarding the use of Excel. Furthermore, through this project, we are analyzing how the outcomes of various campaigns are influenced by launch dates and the goals themselves. All of this is with the goal of enlightening Louise, who is seeking this information due her fundraising experience with her own play. This project was broken down into three separate components. The first of these was “Outcomes Based on Launch Date Chart”, the second, “Outcomes Based on Goals Chart” and the third is this written analysis of the results.  
+The purpose of this project was primarily to showcase our understanding and prowess regarding the use of Excel. Furthermore, through this project, we are analyzing how the outcomes of various campaigns are influenced by launch dates and the goals themselves. All of this is with the goal of enlightening Louise, who is seeking this information due her fundraising experience with her own play. This project was broken down into three separate components. The first of these was “Outcomes Based on Launch Date Chart”, the second, “Outcomes Based on Goals Chart” and the third is this written analysis of the results.  
 
   
 
@@ -27,7 +27,7 @@
 ## Challenges and Difficulties Encountered 
 
 
-	With the first component, I was asked to first create a new column with the title years. From here, I used the function YEAR(S2, etc). This converted the Data Created conversion from a time to a year. After this, I selected all my KickStarter Data by clicking the top left cell and from here I created a pivot table through the insert tab. With this done, I assigned all the values with Outcomes going to the columns and values, the filters being Years and Parent Category and the rows being Date Created Conversion. I filtered this pivot table to show only successful, failed and canceled outcomes and I filtered the Parent Category to only Theater. I then created a line chart by going to the insert tab and finding the list of charts. This chart visualizes the relationship between outcomes and launch month. As you will see Theater outcomes are best in the month of May and June.  
+With the first component, I was asked to first create a new column with the title years. From here, I used the function YEAR(S2, etc). This converted the Data Created conversion from a time to a year. After this, I selected all my KickStarter Data by clicking the top left cell and from here I created a pivot table through the insert tab. With this done, I assigned all the values with Outcomes going to the columns and values, the filters being Years and Parent Category and the rows being Date Created Conversion. I filtered this pivot table to show only successful, failed and canceled outcomes and I filtered the Parent Category to only Theater. I then created a line chart by going to the insert tab and finding the list of charts. This chart visualizes the relationship between outcomes and launch month. As you will see Theater outcomes are best in the month of May and June.  
 
  
 ![image_name](Theater_Outcomes_vs_Launch.png)![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95828604/147184000-c1c48ccd-fac7-41b3-9cf3-b446aab9af47.png)
